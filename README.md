@@ -19,11 +19,11 @@ If you don't specify the number of threads, the software will utilize all availa
 
 ## Examples
 
-Close focus
+### Close focus
 ![Image 1](/examples/DSC_2426.JPG)
-Mid foucs
+### Mid foucs
 ![Image 2](/examples/DSC_2427.JPG)
-Far focus
+### Far focus
 ![Image 3](/examples/DSC_2428.JPG)
 
 ## Result
