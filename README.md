@@ -20,10 +20,15 @@ If you don't specify the number of threads, the software will utilize all availa
 # Examples
 
 ## Image Set
+Close focus
 ![Image 1](/examples/DSC_2426.JPG)
+Mid foucs
 ![Image 2](/examples/DSC_2427.JPG)
+Far focus
 ![Image 3](/examples/DSC_2428.JPG)
 
+## Result
+![Result](/examples/result.jpg)
 
 
 
