@@ -17,9 +17,8 @@ If you don't specify the number of threads, the software will utilize all availa
  3. Create a folder with the images you want to stack.
  4. Run `java -jar FocusStackCLI.jar {images directory} {project name} {threads}`
 
-# Examples
+## Examples
 
-## Image Set
 Close focus
 ![Image 1](/examples/DSC_2426.JPG)
 Mid foucs
@@ -29,6 +28,9 @@ Far focus
 
 ## Result
 ![Result](/examples/result.jpg)
+
+## Future Work
+ - C++ Version!
 
 
 
