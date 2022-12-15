@@ -20,6 +20,9 @@ If you don't specify the number of threads, the software will utilize all availa
 # Examples
 
 ## Image Set
+![Image 1](/examples/DSC_2426.JPG)
+![Image 2](/examples/DSC_2427.JPG)
+![Image 3](/examples/DSC_2428.JPG)
 
 
 
