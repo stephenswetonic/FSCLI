@@ -13,8 +13,8 @@ If you don't specify the number of threads, the software will utilize all availa
 ### Usage
 
  1. Download [FocusStackCLI.jar](https://github.com/stephenswetonic/FocusStackCLI/releases/download/v1.0/FocusStackCLI.jar)
- 2. Navigate to jar location.
- 3. Create a folder with the images you want to stack.
+ 2. Create a folder with the images you want to stack.
+ 3. Navigate to the directory where you save `FocusStackCLI.jar`.
  4. Run `java -jar FocusStackCLI.jar {images directory} {project name} {threads}`
 
 ## Examples
